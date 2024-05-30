@@ -1,5 +1,5 @@
 ### Hi there :wave:
-<a href="https://profile.intra.42.fr/users/mel-jira"><img src="https://badge.mediaplus.ma/darkblue/hsaktiwy" alt="mel-jira's 42 stats" /></a>
+<a href="https://profile.intra.42.fr/users/mel-jira"><img src="https://badge.mediaplus.ma/darkblue/mel-jira" alt="mel-jira's 42 stats" /></a>
 
 <!--
 **hsaktiwy/hsaktiwy** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
